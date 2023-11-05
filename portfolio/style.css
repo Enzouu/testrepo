@@ -1,0 +1,20 @@
+body{
+    height: 100vh;
+    font-family: 'Audiowide', cursive;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    border: 2px solid red;
+}
+
+#header{
+    border: 2px solid red;
+    background-color: black;
+    border-bottom: 5px solid red;
+
+}
+#header .container{
+    border]2px solid red ;
+}
